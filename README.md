@@ -1,4 +1,5 @@
 # Consultoría Gastronómica de Alto Lujo
+![image](https://github.com/LucaTraversa17/ProyectoFinalHenry/assets/88990751/05a158fe-3be2-47c8-b792-9768185ce583)
 
 ## Indice
 1. [Proyecto](#proyecto)
@@ -48,7 +49,8 @@ El dashboard está disponible en el siguiente link.
 
 ## Diagrama de Gant
 
-![image](https://github.com/LucaTraversa17/ProyectoFinalHenry/assets/88990751/6e0ca3dc-184a-4ad2-93b1-938e261bf28c)
+![image](https://github.com/LucaTraversa17/ProyectoFinalHenry/assets/88990751/acc2cdaf-c9e8-42c7-8025-b6c24d2c5325)
+
 
 
 ## KPIs 
