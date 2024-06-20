@@ -13,7 +13,7 @@ Este readme analiza los restaurantes Michelin que han recibido alguna estrella y
 Este análisis se realizó para determinar en qué ciudad de Estados Unidos es mejor abrir un restaurante de gama alta. Se utilizó la prueba de chi-cuadrada para demostrar que el estado no influye en la obtención de un premio Michelin. Además, se identificaron las cinco cocinas con más premios: contemporánea, japonesa, americana, italiana y mexicana.
 
 ## Visualización de Datos
-![Prueba Chi-Cuadrada ](Imagenes/mapacalorpremiosporestado.png)
+![Prueba Chi-Cuadrada ](mapacalorpremiosporestado.png)
 
 Resultados de la Prueba de Chi-Cuadrado:
 Chi-cuadrado: 28.191963540137806
@@ -22,13 +22,13 @@ Valor p: 0.4543103587225741
 
 No hay una dependencia significativa entre Award y State. 
 
-![Top 5 Tipos de Cocinas con mas Premios](Imagenes/Top5tiposdecocina.png)
+![Top 5 Tipos de Cocinas con mas Premios](Top5tiposdecocina.png)
 
 
-![Top 20 Cocinas por Estado](Imagenes/Cocinaporestado.png)
+![Top 20 Cocinas por Estado](Cocinaporestado.png)
 
 
-![Top 10 Nivel de precios por ciudad](Imagenes/NiveldePrecios.png)
+![Top 10 Nivel de precios por ciudad](NiveldePrecios.png)
 
 
 ## Conclusión 
