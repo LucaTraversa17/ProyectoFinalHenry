@@ -49,13 +49,13 @@ El dashboard está disponible en el siguiente link.
 
 ## KPIs 
 1. Tasa de crecimiento de reseñas:
-  - Descripción: Incremento porcentual en el número de reseñas por mes.
+  - Descripción: Incremento porcentual en el número de reseñas por año.
   - Propósito: Medir el nivel de interacción y popularidad a lo largo del tiempo.
   - Objetivo: incremento de 10% de reseñas anualmente.
 2. Sentimiento promedio de reseñas:
   - Descripción: Sentimiento promedio de las reseñas utilizando análisis de sentimientos (positivo, negativo, neutral).
   - Propósito: Evaluar la percepción general de los clientes sobre los servicios.
-  - Objetivo: Mejor del 5% de reseñas positivas semestralmente.  
+  - Objetivo: Mejora del 5% de reseñas positivas semestralmente.  
 3. Incremento de los ingresos:
   - Descripción: crecimiento de los ingresos netos por aumento de ventas o por mejora de márgenes de ganancia.
   - Propósito: medir el crecimiento del negocio.
