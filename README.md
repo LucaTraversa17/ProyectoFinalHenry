@@ -1,7 +1,11 @@
-# Helumaro
-## Consultoría Gastronómica de Alto Lujo
-![image](https://github.com/LucaTraversa17/ProyectoFinalHenry/assets/88990751/05a158fe-3be2-47c8-b792-9768185ce583)
+<h1 align="center">Helumaro</h1>
 
+<h2 align="center"> Consultoría Gastronómica de Alto Lujo </h1>
+
+<div align="center">
+    <img src="https://github.com/LucaTraversa17/ProyectoFinalHenry/assets/88990751/05a158fe-3be2-47c8-b792-9768185ce583" alt="ETL Process">
+</div>
+   
 ## Indice
 1. [Proyecto](#proyecto)
    1. [Alcance](#alcance)
