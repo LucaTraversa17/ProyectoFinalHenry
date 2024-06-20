@@ -11,6 +11,7 @@
 3. [Diagrama de Gant](#diagrama-de-gant)
 4. [KPIs](#kpis)
 5. [Tecnologías utilizadas](#tecnologías-utilizadas)
+   1.[Pipeline](#pipeline)
 6. [¿Quiénes somos?](#quiénes-somos)
 
 ## Proyecto
@@ -47,6 +48,9 @@ El dashboard está disponible en el siguiente link.
 
 ## Diagrama de Gant
 
+![image](https://github.com/LucaTraversa17/ProyectoFinalHenry/assets/88990751/6e0ca3dc-184a-4ad2-93b1-938e261bf28c)
+
+
 ## KPIs 
 1. Tasa de crecimiento de reseñas:
   - Descripción: Incremento porcentual en el número de reseñas por año.
@@ -72,6 +76,8 @@ El dashboard está disponible en el siguiente link.
 | <img src="https://cloud.google.com/images/social-icon-google-cloud-1200-630.png" alt="Google Storage" width="100"/> | <img src="https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png" alt="Power BI" width="100"/> | <img src="https://www.docker.com/sites/default/files/d8/2019-07/Moby-logo.png" alt="Docker" width="100"/> | <img src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.png" alt="Streamlit" width="100"/> | <img src="https://airflow.apache.org/docs/apache-airflow/stable/_images/pin_large.png" alt="AirFlow" width="100"/> | <img src="https://cloud.google.com/images/products/logos/svg/bigquery.svg" alt="BigQuery" width="100"/> |
 
 
+### Pipeline
+![image](https://github.com/LucaTraversa17/ProyectoFinalHenry/assets/88990751/5df1e499-505c-4dd5-b6a4-b070e6448c40)
 
 
 
