@@ -12,8 +12,8 @@
 3. [Diagrama de Gant](#diagrama-de-gant)
 4. [KPIs](#kpis)
 5. [Tecnologías utilizadas](#tecnologías-utilizadas)
-   1.[Pipeline](#pipeline)
-6. [¿Quiénes somos?](#quiénes-somos)
+      1.[Pipeline](#pipeline)
+7. [¿Quiénes somos?](#quiénes-somos)
 
 ## Proyecto
 
