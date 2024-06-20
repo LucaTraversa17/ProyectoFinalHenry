@@ -31,12 +31,12 @@ A continuación presentamos los distintos paso que llevamos a cabo en el proyect
 #### ETL de los datasets
 El proyecto se nutrió de tres fuentes distintas de información. La primeras dos consistieron en un análisis del mercado de gastronomía de alto lujo por estado y su respectiva composición socioeconómica. Para ello se utilizó la información del gobierno de los Estados Unidos y de la base de datos de la guía Michelin. Finalmente, la tercera fuente de datos proviene de las plataformas de Google Maps y Yelp en donde observamos el comportamiento de los consumidores del estado de Massachusetts. 
 
-Para mayor información al respecto, consultar el siguiente [link](AnalisisExploratorioMercado). 
+Para mayor información al respecto, consultar el siguiente [link](ETL). 
 
 #### EDA de la información
 El EDA de la información se orientó en extraer información valiosa para la construcción del sistema de recomendación y el cumplimiento de los KPIs propuestos. 
 
-El mismo se llevó a cabo con Python y sus respectivas librerías y puede ser consultado en el siguiente link. 
+El mismo se llevó a cabo con Python y sus respectivas librerías y puede ser consultado en el siguiente [link](AnalisisExploratorioMercado). 
 
 #### Conexión a la nube
 Debido a la gran cantidad de información que debimos utilizar, tuvimos que almacenar los datos en la nube de Google. Hemos seleccionado a esta empresa por las facilidades que otorga a la hora de conectar los datos así como la estabilidad de las conexiones.  
