@@ -31,7 +31,7 @@ A continuación presentamos los distintos paso que llevamos a cabo en el proyect
 #### ETL de los datasets
 El proyecto se nutrió de tres fuentes distintas de información. La primeras dos consistieron en un análisis del mercado de gastronomía de alto lujo por estado y su respectiva composición socioeconómica. Para ello se utilizó la información del gobierno de los Estados Unidos y de la base de datos de la guía Michelin. Finalmente, la tercera fuente de datos proviene de las plataformas de Google Maps y Yelp en donde observamos el comportamiento de los consumidores del estado de Massachusetts. 
 
-Para mayor información al respecto, consultar el siguiente link. 
+Para mayor información al respecto, consultar el siguiente [link](AnalisisExploratorioMercado). 
 
 #### EDA de la información
 El EDA de la información se orientó en extraer información valiosa para la construcción del sistema de recomendación y el cumplimiento de los KPIs propuestos. 
