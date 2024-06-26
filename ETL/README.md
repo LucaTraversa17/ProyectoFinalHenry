@@ -20,8 +20,8 @@ El dataset de Yelp estaba conformado por cinco archivos distintos en formato JSO
 
 En esta carpeta encontrarán los modelos de archivos que se utilizaron para los ETL. Cada archivo fue trabajado en un Google Colab para mayor prolijidad y entendimiento de código. 
 
-[Link](ETL/ETLGoogle) al ETL de Google
+[Link](ETLGoogle) al ETL de Google
 
-[Link](ETL/ETLYelp) al ETL de Yelp
+[Link](ETLYelp) al ETL de Yelp
 
 A continuación incluimos un modelo de Entidad Relación con las tablas finales que fueron conformadas a partir de la tabla original. También incluimos un diccionario que detalla el significado de cada columna de cada tabla. 
