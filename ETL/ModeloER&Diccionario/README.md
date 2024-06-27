@@ -1,4 +1,4 @@
-# Modelo de Entidad-Relación
+# Modelo de Entidad-Relación & Diccionario de Valores
 
 Este documento describe el modelo de entidad-relación (ER) para las tablas `reviews_unificados` y `businessunificados`.
 
