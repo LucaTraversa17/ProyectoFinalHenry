@@ -24,4 +24,6 @@ En esta carpeta encontrarán los modelos de archivos que se utilizaron para los 
 
 [Link](ETLYelp) al ETL de Yelp
 
+Finalmente, unificamos las tablas que tenían valores similares para que queden únicamente dos tablas. La de negocios (BusinessUnificados) y la de reseñas (Reviews_Unificados). El proceso para la conformación de las mismas se puede observar en el archivo ETL_UnificiacionTablas de esta carpeta. 
+
 A continuación incluimos un modelo de Entidad Relación con las tablas finales que fueron conformadas a partir de la tabla original. También incluimos un diccionario que detalla el significado de cada columna de cada tabla. 
