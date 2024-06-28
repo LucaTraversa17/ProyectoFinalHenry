@@ -4,8 +4,9 @@ Este documento describe el modelo de entidad-relación (ER) para las tablas `rev
 
 ## Entidades y Atributos
 
-### Business
+### BusinessUnificaos
 - **business_id** (PK): str, clave del negocio, combinación entre latitud y longitud en formato str.
+- name: str, nombre del comercio
 - address: str, dirección del comercio
 - latitude: str, latitud
 - longitude: str, longitud
@@ -14,7 +15,7 @@ Este documento describe el modelo de entidad-relación (ER) para las tablas `rev
 - categories: str, categorias a la que pertenece el comercio (Korean restaurant, Italian, etc)
 - platform: str, plataforma en la que se encuentra (Google o Yelp)
 
-### Review
+### Review_Unificados
 - user_id: str, clave del usuario
 - business_id (FK): str, clave del negocio, combinación entre latitud y longitud en formato str.
 - text: str, texto de la reseña
