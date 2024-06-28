@@ -36,17 +36,7 @@ Este documento describe el modelo de entidad-relación (ER) para las tablas `rev
 
 ## Diagrama ER Simplificado
 
-
-| BusinessUnificados    |        | Reviews_Unificados      |
-|-------------|--------|-------------|
-| business_id | ← 1:N → | business_id |
-| address     |        | user_id     |
-| latitude    |        | text        |
-| longitude   |        | platform_x  |
-| stars       |        | rating      |
-| review_count|        |             |
-| categories  |        |             |
-| platform    |        |             |
+![image](https://github.com/LucaTraversa17/ProyectoFinalHenry/assets/88990751/8c3a83e2-55ed-4f4d-8e42-dd1f2bb3005d)
 
 
 En este diagrama:
