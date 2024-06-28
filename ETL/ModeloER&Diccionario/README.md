@@ -4,7 +4,7 @@ Este documento describe el modelo de entidad-relación (ER) para las tablas `rev
 
 ## Entidades y Atributos
 
-### BusinessUnificaos
+### BusinessUnificados
 - **business_id** (PK): str, clave del negocio, combinación entre latitud y longitud en formato str.
 - name: str, nombre del comercio
 - address: str, dirección del comercio
