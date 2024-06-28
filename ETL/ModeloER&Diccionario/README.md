@@ -16,14 +16,15 @@ Este documento describe el modelo de entidad-relación (ER) para las tablas `rev
 - platform: str, plataforma en la que se encuentra (Google o Yelp)
 
 ### Review_Unificados
-- user_id: str, clave del usuario
+- **review_id** (PK): str, clave única que identifica a la review. 
+- user_id (FK): str, clave del usuario
 - business_id (FK): str, clave del negocio, combinación entre latitud y longitud en formato str.
 - text: str, texto de la reseña
 - platform_x: str, en que plataforma se encuentra la reseña
 - rating: float, que puntaje le asignó a la reseña. Solo válido para comentarios en Google, los comentarios en Yelp serán siempre NaN porque no incluían rating.
 
 ### Usuarios_Unificados
-- user_id: str, clave del usuario
+- **user_id** (PK): str, clave del usuario
 - cantidad_reviews: int, reviews totales del usuario
 - promedio_calificacion: float, promedio del puntaje que asignó el usuario en sus calificaciones. 
 - platform: str, en que plataforma se encuentra el usuario
