@@ -37,7 +37,8 @@ Este documento describe el modelo de entidad-relación (ER) para las tablas `rev
 
 ## Diagrama ER Simplificado
 
-![image](https://github.com/LucaTraversa17/ProyectoFinalHenry/assets/88990751/8c3a83e2-55ed-4f4d-8e42-dd1f2bb3005d)
+![image](https://github.com/LucaTraversa17/ProyectoFinalHenry/assets/88990751/086fcb91-131c-4924-9f3b-46c2740b1c66)
+
 
 
 En este diagrama:
