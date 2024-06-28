@@ -30,7 +30,7 @@ Este documento describe el modelo de entidad-relación (ER) para las tablas `rev
 ## Diagrama ER Simplificado
 
 
-| Business    |        | Review      |
+| BusinessUnificados    |        | Reviews_Unificados      |
 |-------------|--------|-------------|
 | business_id | ← 1:N → | business_id |
 | address     |        | user_id     |
