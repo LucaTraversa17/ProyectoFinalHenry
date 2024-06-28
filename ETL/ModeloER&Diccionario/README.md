@@ -30,8 +30,9 @@ Este documento describe el modelo de entidad-relación (ER) para las tablas `rev
 
 ## Relación
 
-- Un `Business` tiene muchas `Review`.
+- Un `Business` tiene muchas `Reviews`.
 - Una `Review` está asociada a un solo `Business`.
+- Un `Usuario` tiene muchas `Reviews`.
 
 ## Diagrama ER Simplificado
 
