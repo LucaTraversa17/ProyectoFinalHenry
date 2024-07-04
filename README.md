@@ -48,7 +48,7 @@ Debido a la gran cantidad de información que debimos utilizar, tuvimos que alma
 #### Implementación del dashboard
 Se ha desarrollado un dashboard en PowerBI donde se pueden consultar los KPIs pero también diferentes métricas que permiten observar la distribución de las distintas variables. Entendemos que un análisis exhaustivo de la información es vital para la correcta toma de decisiones de negocio.
 
-El dashboard está disponible en el siguiente link. 
+El dashboard está disponible en el siguiente [link](Dashboard). 
 
 #### Desarrollo del sistema de recomendación 
 
