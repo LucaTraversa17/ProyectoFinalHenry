@@ -53,7 +53,7 @@ El dashboard está disponible en el siguiente [link](Dashboard).
 #### Desarrollo del sistema de recomendación 
 Se implementó un análisis de sentimiento a través de un modelo de procesamiento de lenguaje natural de las reseñas. Este modelo se utiliza para estudiar las reseñas y cómo impactarán en el desarrollo del negocio. Finalmente implementamos un modelo de regresión lineal y otro de random forest para predecir la viabilidad y rentabilidad de un negocio por categoría, ciudades y estrellas. 
 
-Toda la información puede consultarse en el siguiente [link]()
+Toda la información puede consultarse en el siguiente [link](ML&SistemaDeRecomendacion)
 
 
 ## Diagrama de Gant
