@@ -6,22 +6,26 @@ Este documento describe el modelo de entidad-relación (ER) para las tablas `rev
 
 ### BusinessUnificados
 - **business_id** (PK): str, clave del negocio, combinación entre latitud y longitud en formato str.
-- name: str, nombre del comercio
-- address: str, dirección del comercio
-- latitude: str, latitud
-- longitude: str, longitud
-- stars: float, estrellas promedio de las reseñas
-- review_count: int, cantidad de reseñas 
-- categories: str, categorias a la que pertenece el comercio (Korean restaurant, Italian, etc)
-- platform: str, plataforma en la que se encuentra (Google o Yelp)
+- name: str, nombre del comercio.
+- address: str, dirección del comercio.
+- latitude: str, latitud.
+- longitude: str, longitud.
+- stars: float, estrellas promedio de las reseñas.
+- review_count: int, cantidad de reseñas.
+- categories: str, categorias a la que pertenece el comercio (Korean restaurant, Italian, etc).
+- platform: str, plataforma en la que se encuentra (Google o Yelp).
+- state: str, estado en el que se encuentra el restaurante.
+- city: str, ciudad en la que se encuentra el restaurante. 
 
 ### Review_Unificados
 - **review_id** (PK): str, clave única que identifica a la review. 
-- user_id (FK): str, clave del usuario
+- user_id (FK): str, clave del usuario.
 - business_id (FK): str, clave del negocio, combinación entre latitud y longitud en formato str.
-- text: str, texto de la reseña
-- platform_x: str, en que plataforma se encuentra la reseña
+- text: str, texto de la reseña.
+- platform_x: str, en que plataforma se encuentra la reseña.
 - rating: float, que puntaje le asignó a la reseña. Solo válido para comentarios en Google, los comentarios en Yelp serán siempre NaN porque no incluían rating.
+- year: int, año del comentario de la review.
+- semester: int, semestre en el que se realizó el comentario.
 
 ### Usuarios_Unificados
 - **user_id** (PK): str, clave del usuario
@@ -37,7 +41,9 @@ Este documento describe el modelo de entidad-relación (ER) para las tablas `rev
 
 ## Diagrama ER Simplificado
 
-![image](https://github.com/LucaTraversa17/ProyectoFinalHenry/assets/88990751/b83ecd4c-0f71-41e4-a0a3-63c1e6fb199f)
+![image](https://github.com/LucaTraversa17/ProyectoFinalHenry/assets/88990751/02687c98-167a-45ee-bd04-6838a7f38cd8)
+
+
 
 
 
