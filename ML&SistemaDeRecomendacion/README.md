@@ -1,3 +1,5 @@
+![image](https://github.com/LucaTraversa17/ProyectoFinalHenry/assets/88990751/1c57b30e-b019-48ba-89d6-2bb4dd60568f)
+
 # Proceso
 
 En primer lugar, nuestro equipo de machine learning specialist, generó un proceso de análisis de sentimiento en el que se calificaban las reseñas con los valores positiva (2), neutra (1) o negativa (0) a través de un modelo de procesamiento de lenguaje natural. Dicho proceso puede ser observado en el archivo ProcesoAnalisisSentimiento.ipynb que se encuentra en esta carpeta. 
