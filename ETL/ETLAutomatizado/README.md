@@ -1,6 +1,6 @@
 # Entorno de la Nube
 
-En el presente [Video](https://drive.google.com/drive/folders/1kdWmxfGc29-IJu4dNmbSvaszTSstVupZ?usp=drive_link) se está presentando una vista general de las herramientas utilizadas en la plataforma de Google Cloud Platform.
+En el presente [video](https://drive.google.com/drive/folders/1kdWmxfGc29-IJu4dNmbSvaszTSstVupZ?usp=drive_link) se está presentando una vista general de las herramientas utilizadas en la plataforma de Google Cloud Platform.
 
 
 
