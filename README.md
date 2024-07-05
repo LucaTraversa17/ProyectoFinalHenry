@@ -43,7 +43,9 @@ El EDA de la información se orientó en extraer información valiosa para la co
 El mismo se llevó a cabo con Python y sus respectivas librerías y puede ser consultado en el siguiente [link](AnalisisExploratorioMercado). 
 
 #### Conexión a la nube
-Debido a la gran cantidad de información que debimos utilizar, tuvimos que almacenar los datos en la nube de Google. Hemos seleccionado a esta empresa por las facilidades que otorga a la hora de conectar los datos así como la estabilidad de las conexiones.  
+Debido a la gran cantidad de información que debimos utilizar, tuvimos que almacenar los datos en la nube de Google. Hemos seleccionado a esta empresa por las facilidades que otorga a la hora de conectar los datos así como la estabilidad de las conexiones.
+
+En el siguiente [link](ETL/ETLAutomatizado) encontrarán una carpeta con videos que muestran el proceso de automatización y carga incremental en la nube. 
 
 #### Implementación del dashboard
 Se ha desarrollado un dashboard en PowerBI donde se pueden consultar los KPIs pero también diferentes métricas que permiten observar la distribución de las distintas variables. Entendemos que un análisis exhaustivo de la información es vital para la correcta toma de decisiones de negocio.
