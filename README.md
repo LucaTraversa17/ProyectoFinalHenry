@@ -87,8 +87,7 @@ Toda la información puede consultarse en el siguiente [link](ML&SistemaDeRecome
 | <img src="https://cloud.google.com/images/social-icon-google-cloud-1200-630.png" alt="Google Storage" width="100"/> | <img src="https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png" alt="Power BI" width="100"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Streamlit-logo-primary-colormark-darktext.png/1024px-Streamlit-logo-primary-colormark-darktext.png" alt="Streamlit" width="100"/> | <img src="https://colab.research.google.com/img/colab_favicon_256px.png" alt="Colab" width="100"/> | <img src="https://github.com/LucaTraversa17/ProyectoFinalHenry/blob/main/img/logos/airflow.png" alt="AirFlow" width="100"/> | <img src="https://github.com/LucaTraversa17/ProyectoFinalHenry/blob/main/img/logos/bigquery.png" alt="BigQuery" width="100"/> |
 
 ### Pipeline
-![image](https://github.com/LucaTraversa17/ProyectoFinalHenry/assets/88990751/5df1e499-505c-4dd5-b6a4-b070e6448c40)
-
+![image](https://github.com/LucaTraversa17/ProyectoFinalHenry/assets/88990751/2bdd2fbc-dd51-4e64-ad21-80125a97ff48)
 
 
 ## ¿Quiénes somos?
